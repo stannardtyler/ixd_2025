@@ -6,4 +6,10 @@ You can learn more from the [Github Docs](https://docs.github.com/en/get-started
 
 ![image of github logo](https://cdn-icons-png.flaticon.com/256/25/25231.png)
 
+## Journal Example
 
+Review the Journal Example Here
+
+## How to create a Github Page
+
+Review the Github Page Tutorial Here
