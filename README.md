@@ -4,6 +4,6 @@ This is written in "Mark Up". This is a language we can use a on github to furth
 
 You can learn more from the [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
 
-![image of github logo](https://cdn-icons-png.flaticon.com/256/25/25231.png}
+![image of github logo](https://cdn-icons-png.flaticon.com/256/25/25231.png)
 
 
