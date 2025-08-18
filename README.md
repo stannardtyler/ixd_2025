@@ -1,6 +1,8 @@
 # Welcome to my Github Page!
 
-This is written in "Mark Up". This is a language we can use a on github to further curate and guide users through your page. 
+This is written in "Markdown". Markdown is an easy-to-read, easy-to-write language for formatting plain text. 
+
+You can use *Markdown* syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues. In this guide, you'll learn some advanced formatting features by creating or editing a README for your GitHub profile. This is a language we can use a on github to further curate and guide users through your page. 
 
 You can learn more from the [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
 
@@ -8,7 +10,7 @@ You can learn more from the [Github Docs](https://docs.github.com/en/get-started
 
 ## Journal Example
 
-Review the Journal Example Here
+Review the **Journal Example** [Here](journal/8.19.25.md)
 
 ## How to create a Github Page
 
