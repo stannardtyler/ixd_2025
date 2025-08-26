@@ -36,6 +36,22 @@ Affordances - think about what actions are possible with an object yet you have 
 
 (This video covers a good concept of affordances)[https://www.interaction-design.org/literature/topics/affordances?srsltid=AfmBOorAPUmc0NCsXcj_b8wcKnp8x6pg3sj6qlez_31agDs-RhmvrJp6] 
 
+### Tyler's Chair
+
+> Thinking about Affordance in objects reminds me of another personal encounter with a chair. You'll notice the chair has a little slit on the side of the arm. What do you propose that is for? What is tha main purpose proposed by the designer, any thoughts?
+
+<img src="/images/affordance1.jpg" width=50%></img>
+
+In the chapter Don Normand talks about the conceptual models of objects. There is a **designer's** conceptual model, a **user's** conceptual model, and finally a **system image** that is provided to the user from the designer in hope's it *communicates* the intended use case of the product. 
+
+<img src="/images/conceputalModel.jpg" width=50%></img>
+
+This all goes back to perspective on how designer's approach design problems, expecting the perfect user use case, but sometimes those design solutions may not be apparent to the user's perception. The system image, which isn't included with Tyler's chair, is supposed to relay this. Yet if the instructions or idea proves challenging or confusing for the user, then there is something wrong with the design. 
+
+>Going back to my chair you'll see that I utilize it as a holding spot for my writing materials! Again this is not the original intention of the object, but going back to the idea of "affordance" we see that the opening in the arm *affordances* a spot for my objects.
+
+<img src="/images/affordance2.jpg" width=50%></img>
+
 **Signifiers**
 
 Don Norman - 
@@ -71,7 +87,7 @@ In small groups of 3, you'll be assigned the following (*avoid examples from the
 
 Group A: Find an example of poor affordances/signifiers
 
-Group B: Good/bad mapping or feedback
+Group B: Find an example of Good/bad mapping or feedback. (Consider "contraints" as well)
 
 Group C: Compare digital vs physical product design counterpart (ie. a watch)
 
