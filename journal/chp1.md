@@ -43,14 +43,15 @@ Don Norman -
 
 Signifier - Derived from semiotics (i.e., the study of signs and symbols), linguistics or film, you may have come across signifiers before. A signifier is something that points to or indicates something else. 
 
+(This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
+
+<img src="/images/DOET/chp1/signifier.png" width=50%></img>
+
 ### Hidden
 
 #### Door
 
-<img src"/images/DOET/chp1/doorTypes.jpg"></img>
+[door1]/images/DOET/chp1/doorTypes.jpg)
 
-<img src"/images/DOET/chp1/doorTypes2.jpg"></img>
+[door2]/images/DOET/chp1/doorTypes2.jpg)
 
-(This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
-
-<img src="/images/DOET/chp1/signifier.png" width=50%></img>
