@@ -77,19 +77,29 @@ These two concepts, Mapping and Feedback, align hand and hand with affordance an
 
 > Mapping is an important concept in the design and layout of controls and displays. When the mapping uses spatial correspondence between the layout of the controls and the devices being controlled, it is easy to determine how to use them. (21)
 
-This concept reminds me of that of a video game control. Consider the mapping of the controls. The d-pad for movement and the buttons with symbols and colors normally align with in-game actions/interactions. Think for a moment about classic video games, this concept of mapping and movement aligns with the history of the video game DOOM and how impactful that was not only to the FPS genre, but also the control schema using a mouse, which wasn't the standard for FPS controls. (First it was the arrow keys). 
+This concept reminds me of that of a video game control. Consider the mapping of the controls. The d-pad for movement and the buttons with symbols and colors normally align with in-game actions/interactions. Think for a moment about classic video games, this concept of mapping and movement aligns with the history of the video game DOOM and how impactful that was not only to the FPS genre, but also the control schema using a mouse, which wasn't the standard for FPS controls. (First it was the just arrow keys). 
 
-Feedback is equally as important. Think about games once more or something as common as explore a digital interface. If you click a button or perform an action on a site, you expect some feedback. If nothing happens when you press the "jump" button on your controller and don't see the character jump, this feedback alludes something is wrong. Could it be the controls/keybinds themselves? Or perhaps the controller has some type of issue. Going to the website example, not seeing the web page update, or the button replicate a pressed impression or a prevelent "loading" icon makes us unsure if the action went through. This is where clear feedback communicates this to the user. The feedback can be as complex as a video game character responding to your actions, or a single light flickering on your digitial devices. 
+> Feedback—communicating the results of an action—is a wellknown concept from the science of control and information theory... Feedback must be immediate: even a delay of a tenth of a second can be disconcerting. If the delay is too long, people often give up, going off to do other activities. This is annoying to the people, but it can also be wasteful of resources when the system spends considerable time and effort to satisfy the request, only to find that the intended recipient is no longer there. Feedback must also be informative. (21)
+
+Feedback is equally as important. Think about games once more or something as common as exploring a digital interface. If you click a button or perform an action on a site, you expect some feedback. If nothing happens when you press the "jump" button on your controller and don't see the character jump, this feedback alludes that something is wrong. Could it be the controls/keybinds themselves? Or perhaps the controller has some type of issue. Going to the website example, not seeing the web page update, or the button replicating a pressed impression or a prevalent "loading" icon makes us unsure if the action went through. This is where clear feedback communicates this to the user. The feedback can be as complex as a video game character responding to your actions, or a single light flickering on your digital devices. 
 
 ## How do designers resolve this?
 
 Perspective and Conceptual Model between **Designer** vs **User** vs **System Expectation**
 
-**Add figure here**
+<img src="/images/DOET/chp1/conceptualModel" width=50%></img>
+
+Thinking back to the examples from the book, Norman talks about his fridgerator having what he thought was good mapping of the controls which upon further research showed a false conceptual model that caused confusion for the user. 
+
+<img src="/images/DOET/chp1/fridge1.jpg" width=50%></img>
+
+<img src="/images/DOET/chp1/fridge2.jpg" width=50%></img>
 
 ## Human Centered Design (HCD)
 
-Summarize/ quotes
+Norman brings up the solution of Human Centered Design (HCD) that aims to help designers resolve these design problems. How can we effectively design for what can go wrong, rather than what can go right? How can designers effectively communicate controls, interfaces, and usage with proper mapping and feedback? How can objects be designed to signify proper affordances and signifiers to support user's interpretations? The text will further focus on this design philosophy further in the text.
+
+ <img src="/images/DOET/chp1/fridge2.jpg" width=50%></img>
 
 ## Breakout Assignment
 
@@ -109,7 +119,7 @@ Any final thoughts anyone would like to share?
 
 > I thought it was interesting the way Norman broke down the concepts of affordance and signifiers and realigned these terms to design practices of good mapping and feedback. These principles help describe the relationship of how we as *users* perceive and interact and how *designers* must challenge their preconceived notions to design for the error, not perfection. Makes me think of the programs I've made and exhibited in the past. 1 example is many of my First Person POV virtual projects where users are introduced to a large keyboard rather than perhaps a controller which streamlines the controls. Additionally, I've made projects where users just use their phone as a "wand" to paint with in software. How can we create interactive experiences with easily conveys what actions and understanding can affordance provide and how we convey instructions and controls as well as outcomes with signifiers? By strong mapping and feedback.
 
-**Add image of palm pilot from text
+<img src="/images/DOET/chp1/fridge2.jpg" width=50%></img>
 
 ### Hidden
 
