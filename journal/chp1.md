@@ -51,7 +51,7 @@ Signifier - Derived from semiotics (i.e., the study of signs and symbols), lingu
 
 #### Door
 
-[door1]/images/DOET/chp1/doorTypes.jpg)
+[door1](/images/DOET/chp1/doorTypes.jpg)
 
-[door2]/images/DOET/chp1/doorTypes2.jpg)
+[door2](/images/DOET/chp1/doorTypes2.jpg)
 
