@@ -44,7 +44,7 @@ Affordances - think about what actions are possible with an object yet you have 
 
 In the chapter Don Normand talks about the conceptual models of objects. There is a **designer's** conceptual model, a **user's** conceptual model, and finally a **system image** that is provided to the user from the designer in hope's it *communicates* the intended use case of the product. 
 
-<img src="/images/DOET/chp1/conceputalModel.png" width=50%></img>
+<img src="/images/DOET/chp1/conceptualModel.png" width=50%></img>
 
 This all goes back to perspective on how designer's approach design problems, expecting the perfect user use case, but sometimes those design solutions may not be apparent to the user's perception. The system image, which isn't included with Tyler's chair, is supposed to relay this. Yet if the instructions or idea proves challenging or confusing for the user, then there is something wrong with the design. 
 
@@ -89,13 +89,13 @@ Feedback is equally as important. Think about games once more or something as co
 
 Perspective and Conceptual Model between **Designer** vs **User** vs **System Expectation**
 
-<img src="/images/DOET/chp1/conceptualModel" width=50%></img>
+<img src="/images/DOET/chp1/conceptualModel.png" width=50%></img>
 
 Thinking back to the examples from the book, Norman talks about his fridgerator having what he thought was good mapping of the controls which upon further research showed a false conceptual model that caused confusion for the user. 
 
-<img src="/images/DOET/chp1/fridge1.png" width=50%></img>
+<img src="/images/DOET/chp1/fridgeMapping.png" width=50%></img>
 
-<img src="/images/DOET/chp1/fridge2.png" width=50%></img>
+<img src="/images/DOET/chp1/fridgeModel.png" width=50%></img>
 
 ## Human Centered Design (HCD)
 
