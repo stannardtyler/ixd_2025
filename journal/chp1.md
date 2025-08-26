@@ -47,9 +47,9 @@ Signifier - Derived from semiotics (i.e., the study of signs and symbols), lingu
 
 #### Door
 
-<img src"/images/DOET/chp1/doorTypes.jpg" width=50%></img>
+<img src"/images/DOET/chp1/doorTypes.jpg"></img>
 
-<img src"/images/DOET/chp1/doorTypes2.jpg" width=50%></img>
+<img src"/images/DOET/chp1/doorTypes2.jpg"></img>
 
 (This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
 
