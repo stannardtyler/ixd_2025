@@ -105,7 +105,6 @@ Any final thoughts anyone would like to share?
 
 #### Door
 
-[door1](/images/DOET/chp1/doorTypes.jpg)
+<img src="/images/DOET/chp1/doorTypes.jpg" width=50%></img>
 
-[door2](/images/DOET/chp1/doorTypes2.jpg)
-
+<img src="/images/DOET/chp2/doorTypes.jpg" width=50%></img>
