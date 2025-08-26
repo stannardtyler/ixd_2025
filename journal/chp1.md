@@ -15,7 +15,11 @@ The major talking points about the reading was about **discovery and understandi
 
 For Ex.
 > Perhaps think of the iMac computers or perhaps the mac devices you’ve used at school? Many of you are more familiar with PC devices, how many of you have had troubles turning on the Mac computers on campus? Maybe confused with how a mouse works? How would you redesign to prevent these user issues? Do you have to sacrifice seamless design for easy discovery?
->
+
+For Ex2.
+> A couple of weeks back I went out to a restaurant that had a restroom with a nice washroom. Always appreciative of how nice they can be, I approach the sink to wash my hands. Quickly I struggle to get the water working. Confused, I begin to observe from my perspective for any indicators that may clarify my confusion or give me guidance/reference of what to do. Sadly I couldn't obtain any reassurance of proper instruction from my observation. In a bit of frantic confusion, I began to wave my hands up and around the sink. Slowly hitting, what appeared to be a button, which in return had water come out quickly. Thinking I've come to my conclusion, I realized that there is a tiny motion sensor that is placed to the back of the sink under the faucet. Sadly, the length and design of the faucet obscured the motion sensor range which was the root of my issue with proper operation. Was this my fault or that of the designer? What is expected of a sink? What indicators are common with sinks? How have sinks evolved and why am I getting confused about how to use them?
+
+
  
 ## Affordance and Signifiers 
 Would anyone like to provide a general definition of **Affordances and Signifiers** in the context of the book? Perhapes relate the definition to a realworld object? 
