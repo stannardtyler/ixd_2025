@@ -99,21 +99,19 @@ Thinking back to the examples from the book, Norman talks about his fridgerator 
 
 ## Human Centered Design (HCD)
 
-Norman brings up the solution of Human Centered Design (HCD) that aims to help designers resolve these design problems. How can we effectively design for what can go wrong, rather than what can go right? How can designers effectively communicate controls, interfaces, and usage with proper mapping and feedback? How can objects be designed to signify proper affordances and signifiers to support user's interpretations? The text will further focus on this design philosophy further in the text.
+Norman brings up the solution of Human Centered Design (HCD) that aims to help designers resolve these design problems. How can we effectively design for what can go wrong, rather than what can go right? How can designers effectively communicate controls, interfaces, and usage with proper mapping and feedback? How can objects be designed to signify proper affordances and signifiers to support user's interpretations? The main method Norman highlights is through actual user testing, iterative design approaches. This becomes a bit challenging in the grand scheme of product design when consider the many groups that are in play from manufacturing, pricing, materials, etc. Norman will continue to flesh strategies further in the text. 
 
  <img src="/images/DOET/chp1/studentMentor.png" width=50%></img>
-
-  <img src="/images/DOET/chp1/palm.png" width=50%></img>
 
 ## Breakout Assignment
 
 In small groups of 3, you'll be assigned the following (*avoid examples from the text*):
 
-Group A: Find an example of poor affordances/signifiers
+Group A: Find an example of poor affordances/signifiers. Consider how you can improve the affordances/signifiers? 
 
-Group B: Find an example of Good/bad mapping or feedback. (Consider "contraints" as well)
+Group B: Breakdown the difference between Good/bad mapping or feedback. What works effectively? Any examples? (Consider "contraints" as well)
 
-Group C: Compare digital vs physical product design counterpart (ie. a watch)
+Group C: Compare digital vs physical product design counterpart (ie. a watch). Which is more effective in affordance/signifiers/mapping/feedback. 
 
 Group D: Redesign a confusing object, either discussed today or in the text (*no doors plz*) using Norman’s principles of Affordance/Signifiers and Mapping/Feedback. 
 
@@ -123,7 +121,7 @@ Any final thoughts anyone would like to share?
 
 > I thought it was interesting the way Norman broke down the concepts of affordance and signifiers and realigned these terms to design practices of good mapping and feedback. These principles help describe the relationship of how we as *users* perceive and interact and how *designers* must challenge their preconceived notions to design for the error, not perfection. Makes me think of the programs I've made and exhibited in the past. 1 example is many of my First Person POV virtual projects where users are introduced to a large keyboard rather than perhaps a controller which streamlines the controls. Additionally, I've made projects where users just use their phone as a "wand" to paint with in software. How can we create interactive experiences with easily conveys what actions and understanding can affordance provide and how we convey instructions and controls as well as outcomes with signifiers? By strong mapping and feedback.
 
-<img src="/images/DOET/chp1/fridge2.jpg" width=50%></img>
+<img src="/images/DOET/chp1/studentMentor.png" width=50%></img>
 
 ### Hidden
 
