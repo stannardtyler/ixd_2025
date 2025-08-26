@@ -30,7 +30,7 @@ Would anyone like to provide a general definition of **Affordances and Signifier
 **Affordance**
 
 Don Norman - 
-> “An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used.”
+> “An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used.” (12)
 
 Affordances - think about what actions are possible with an object yet you have to consider what understanding does the user have on how to use that agent. Are the affordances the same between user to user? Adult to child? Person to an animal?
 
@@ -55,7 +55,7 @@ This all goes back to perspective on how designer's approach design problems, ex
 **Signifiers**
 
 Don Norman - 
-> “Good design requires, among other things, good communication of the purpose, structure, and operation of the device to the people who use it. That is the role of the signifier.”
+> “Good design requires, among other things, good communication of the purpose, structure, and operation of the device to the people who use it. That is the role of the signifier.” (14)
 
 Signifier - Derived from semiotics (i.e., the study of signs and symbols), linguistics or film, you may have come across signifiers before. A signifier is something that points to or indicates something else. 
 
@@ -63,13 +63,23 @@ Signifier - Derived from semiotics (i.e., the study of signs and symbols), lingu
 
 <img src="/images/DOET/chp1/signifier.png" width=50%></img>
 
+**Perceived Affordances**
+
+Perceived affordances often act as signifiers, but they can be ambiguous. 
+
 In Book Example : Affordance vs Signifier
 
 **add figure here**
 
 ## Mapping and Feedback 
 
-Two important concepts brought up towards the end of the text. 
+These two concepts, Mapping and Feedback, align hand and hand with affordance and signifiers. 
+
+> Mapping is an important concept in the design and layout of controls and displays. When the mapping uses spatial correspondence between the layout of the controls and the devices being controlled, it is easy to determine how to use them. (21)
+
+This concept reminds me of that of a video game control. Consider the mapping of the controls. The d-pad for movement and the buttons with symbols and colors normally align with in-game actions/interactions. Think for a moment about classic video games, this concept of mapping and movement aligns with the history of the video game DOOM and how impactful that was not only to the FPS genre, but also the control schema using a mouse, which wasn't the standard for FPS controls. (First it was the arrow keys). 
+
+Feedback is equally as important. Think about games once more or something as common as explore a digital interface. If you click a button or perform an action on a site, you expect some feedback. If nothing happens when you press the "jump" button on your controller and don't see the character jump, this feedback alludes something is wrong. Could it be the controls/keybinds themselves? Or perhaps the controller has some type of issue. Going to the website example, not seeing the web page update, or the button replicate a pressed impression or a prevelent "loading" icon makes us unsure if the action went through. This is where clear feedback communicates this to the user. The feedback can be as complex as a video game character responding to your actions, or a single light flickering on your digitial devices. 
 
 ## How do designers resolve this?
 
