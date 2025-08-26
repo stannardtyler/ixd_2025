@@ -1,10 +1,13 @@
 # Chp 1 - Psyhopathology of Everyday Things
 
 Welcome to the discussion - before opening the floor, I’d like to ask you all some questions related to the text
-Doors
 
-Open the floor about the doors? Think about how doors look, through a historic lens and modern lens. Google or draw some doors for reference.
+## Doors
+
+> Open the floor about the doors? Think about how doors look, through a historic lens and modern lens. Google or draw some doors for reference.
 Let’s design a door together. How would it look? How would it operate? Are there new ideas we can add or remove? Which choices improve or perhaps hinder the user experience.  
+
+How could we improve a door? Door of the future and present. [Door Examples](#door)
 
 ## Discovery and Understanding : User vs Designer
 The major talking points about the reading was about **discovery and understanding**. This can create a large divide, or a gulf we could call it, between the perspective and mentality of users/consumers and designers. 
@@ -39,6 +42,12 @@ Don Norman -
 > “Good design requires, among other things, good communication of the purpose, structure, and operation of the device to the people who use it. That is the role of the signifier.”
 
 Signifier - Derived from semiotics (i.e., the study of signs and symbols), linguistics or film, you may have come across signifiers before. A signifier is something that points to or indicates something else. 
+
+### Hidden
+
+#### Door
+<img src"/images/DOET/chp1/doorTypes.jpg" width=50%></img>
+<img src"/images/DOET/chp1/doorTypes2.jpg" width=50%></img>
 
 (This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
 
