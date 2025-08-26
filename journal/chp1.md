@@ -40,7 +40,7 @@ Affordances - think about what actions are possible with an object yet you have 
 
 > Thinking about Affordance in objects reminds me of another personal encounter with a chair. You'll notice the chair has a little slit on the side of the arm. What do you propose that is for? What is tha main purpose proposed by the designer, any thoughts?
 
-<img src="/images/DOET/chp1/affordance1.jpg" width=50%></img>
+<img src="images/DOET/chp1/affordance1.jpg" width=50%></img>
 
 In the chapter Don Normand talks about the conceptual models of objects. There is a **designer's** conceptual model, a **user's** conceptual model, and finally a **system image** that is provided to the user from the designer in hope's it *communicates* the intended use case of the product. 
 
