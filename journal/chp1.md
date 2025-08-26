@@ -53,13 +53,17 @@ In Book Example : Affordance vs Signifier
 
 ## Mapping and Feedback 
 
-Two important concepts brought up towards the end of the text. How
+Two important concepts brought up towards the end of the text. 
 
 ## How do designers resolve this?
 
 Perspective and Conceptual Model between **Designer** vs **User** vs **System Expectation**
 
 **Add figure here**
+
+## Human Centered Design (HCD)
+
+Summarize/ quotes
 
 ## Breakout Assignment
 
