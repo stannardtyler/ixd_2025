@@ -1,4 +1,4 @@
-# Chp 1 - Psyhopathology of Everyday Things
+# Chp 1 - Psychopathology of Everyday Things
 
 Welcome to the discussion - before opening the floor, I’d like to ask you all some questions related to the text
 
@@ -46,6 +46,40 @@ Signifier - Derived from semiotics (i.e., the study of signs and symbols), lingu
 (This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
 
 <img src="/images/DOET/chp1/signifier.png" width=50%></img>
+
+In Book Example : Affordance vs Signifier
+
+**add figure here**
+
+## Mapping and Feedback 
+
+Two important concepts brought up towards the end of the text. How
+
+## How do designers resolve this?
+
+Perspective and Conceptual Model between **Designer** vs **User** vs **System Expectation**
+
+**Add figure here**
+
+## Breakout Assignment
+
+In small groups of 3, you'll be assigned the following (*avoid examples from the text*):
+
+Group A: Find an example of poor affordances/signifiers
+
+Group B: Good/bad mapping or feedback
+
+Group C: Compare digital vs physical product design counterpart (ie. a watch)
+
+Group D: Redesign a confusing object, either discussed today or in the text (*no doors plz*) using Norman’s principles of Affordance/Signifiers and Mapping/Feedback. 
+
+## Final Thoughts?
+
+Any final thoughts anyone would like to share?
+
+> I thought it was interesting the way Norman broke down the concepts of affordance and signifiers and realigned these terms to design practices of good mapping and feedback. These principles help describe the relationship of how we as *users* perceive and interact and how *designers* must challenge their preconceived notions to design for the error, not perfection. Makes me think of the programs I've made and exhibited in the past. 1 example is many of my First Person POV virtual projects where users are introduced to a large keyboard rather than perhaps a controller which streamlines the controls. Additionally, I've made projects where users just use their phone as a "wand" to paint with in software. How can we create interactive experiences with easily conveys what actions and understanding can affordance provide and how we convey instructions and controls as well as outcomes with signifiers? By strong mapping and feedback.
+
+**Add image of palm pilot from text
 
 ### Hidden
 
