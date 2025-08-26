@@ -107,4 +107,4 @@ Any final thoughts anyone would like to share?
 
 <img src="/images/DOET/chp1/doorTypes.jpg" width=50%></img>
 
-<img src="/images/DOET/chp2/doorTypes.jpg" width=50%></img>
+<img src="/images/DOET/chp1/doorTypes2.jpg" width=50%></img>
