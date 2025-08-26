@@ -40,17 +40,17 @@ Affordances - think about what actions are possible with an object yet you have 
 
 > Thinking about Affordance in objects reminds me of another personal encounter with a chair. You'll notice the chair has a little slit on the side of the arm. What do you propose that is for? What is tha main purpose proposed by the designer, any thoughts?
 
-<img src="images/DOET/chp1/affordance1.jpg" width=50%></img>
+<img src="images/DOET/chp1/affordance1.png" width=50%></img>
 
 In the chapter Don Normand talks about the conceptual models of objects. There is a **designer's** conceptual model, a **user's** conceptual model, and finally a **system image** that is provided to the user from the designer in hope's it *communicates* the intended use case of the product. 
 
-<img src="/images/DOET/chp1/conceputalModel.jpg" width=50%></img>
+<img src="/images/DOET/chp1/conceputalModel.png" width=50%></img>
 
 This all goes back to perspective on how designer's approach design problems, expecting the perfect user use case, but sometimes those design solutions may not be apparent to the user's perception. The system image, which isn't included with Tyler's chair, is supposed to relay this. Yet if the instructions or idea proves challenging or confusing for the user, then there is something wrong with the design. 
 
 >Going back to my chair you'll see that I utilize it as a holding spot for my writing materials! Again this is not the original intention of the object, but going back to the idea of "affordance" we see that the opening in the arm *affordances* a spot for my objects.
 
-<img src="/images/DOET/chp1/affordance2.jpg" width=50%></img>
+<img src="/images/DOET/chp1/affordance2.png" width=50%></img>
 
 **Signifiers**
 
@@ -93,9 +93,9 @@ Perspective and Conceptual Model between **Designer** vs **User** vs **System Ex
 
 Thinking back to the examples from the book, Norman talks about his fridgerator having what he thought was good mapping of the controls which upon further research showed a false conceptual model that caused confusion for the user. 
 
-<img src="/images/DOET/chp1/fridge1.jpg" width=50%></img>
+<img src="/images/DOET/chp1/fridge1.png" width=50%></img>
 
-<img src="/images/DOET/chp1/fridge2.jpg" width=50%></img>
+<img src="/images/DOET/chp1/fridge2.png" width=50%></img>
 
 ## Human Centered Design (HCD)
 
