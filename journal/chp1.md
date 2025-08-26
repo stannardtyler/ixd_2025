@@ -19,12 +19,13 @@ For Ex.
 For Ex2.
 > A couple of weeks back I went out to a restaurant that had a restroom with a nice washroom. Always appreciative of how nice they can be, I approach the sink to wash my hands. Quickly I struggle to get the water working. Confused, I begin to observe from my perspective for any indicators that may clarify my confusion or give me guidance/reference of what to do. Sadly I couldn't obtain any reassurance of proper instruction from my observation. In a bit of frantic confusion, I began to wave my hands up and around the sink. Slowly hitting, what appeared to be a button, which in return had water come out quickly. Thinking I've come to my conclusion, I realized that there is a tiny motion sensor that is placed to the back of the sink under the faucet. Sadly, the length and design of the faucet obscured the motion sensor range which was the root of my issue with proper operation. Was this my fault or that of the designer? What is expected of a sink? What indicators are common with sinks? How have sinks evolved and why am I getting confused about how to use them?
 
-
+<img src="/images/DOET/chp1/sink.jpg" width=50%></img>
  
 ## Affordance and Signifiers 
 Would anyone like to provide a general definition of **Affordances and Signifiers** in the context of the book? Perhapes relate the definition to a realworld object? 
 
-##Affordance##
+**Affordance**
+
 Don Norman - 
 > “An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used.”
 
@@ -32,7 +33,8 @@ Affordances - think about what actions are possible with an object yet you have 
 
 (This video covers a good concept of affordances)[https://www.interaction-design.org/literature/topics/affordances?srsltid=AfmBOorAPUmc0NCsXcj_b8wcKnp8x6pg3sj6qlez_31agDs-RhmvrJp6] 
 
-##Signifiers##
+**Signifiers**
+
 Don Norman - 
 > “Good design requires, among other things, good communication of the purpose, structure, and operation of the device to the people who use it. That is the role of the signifier.”
 
@@ -40,3 +42,4 @@ Signifier - Derived from semiotics (i.e., the study of signs and symbols), lingu
 
 (This video covers a good concept of signifiers)[https://www.interaction-design.org/literature/topics/signifiers?srsltid=AfmBOoqtg-j4n4Utnes-PhU0F_yuPHb8cu-ysljtreLGwrqKlQcTnWfS]
 
+<img src="/images/DOET/chp1/signifier.png" width=50%></img>
