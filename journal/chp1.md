@@ -40,7 +40,7 @@ Affordances - think about what actions are possible with an object yet you have 
 
 > Thinking about Affordance in objects reminds me of another personal encounter with a chair. You'll notice the chair has a little slit on the side of the arm. What do you propose that is for? What is tha main purpose proposed by the designer, any thoughts?
 
-<img src="images/DOET/chp1/affordance1.png" width=50%></img>
+<img src="/images/DOET/chp1/affordance1.png" width=50%></img>
 
 In the chapter Don Normand talks about the conceptual models of objects. There is a **designer's** conceptual model, a **user's** conceptual model, and finally a **system image** that is provided to the user from the designer in hope's it *communicates* the intended use case of the product. 
 
@@ -121,7 +121,7 @@ Any final thoughts anyone would like to share?
 
 > I thought it was interesting the way Norman broke down the concepts of affordance and signifiers and realigned these terms to design practices of good mapping and feedback. These principles help describe the relationship of how we as *users* perceive and interact and how *designers* must challenge their preconceived notions to design for the error, not perfection. Makes me think of the programs I've made and exhibited in the past. 1 example is many of my First Person POV virtual projects where users are introduced to a large keyboard rather than perhaps a controller which streamlines the controls. Additionally, I've made projects where users just use their phone as a "wand" to paint with in software. How can we create interactive experiences with easily conveys what actions and understanding can affordance provide and how we convey instructions and controls as well as outcomes with signifiers? By strong mapping and feedback.
 
-<img src="/images/DOET/chp1/studentMentor.png" width=50%></img>
+<img src="/images/DOET/chp1/palm.png" width=50%></img>
 
 ### Hidden
 
