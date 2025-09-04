@@ -12,6 +12,10 @@ You can learn more from the [Github Docs](https://docs.github.com/en/get-started
 
 Review the **Journal Example** [Here](journal/8.19.25.md)
 
+## Eloquent Javascript Exercises
+
+Chapter 2 [Exercises](eloquent_js/2_0/index.html)
+
 ## How to create a Github Page
 
 Review the Github Page Tutorial Here
