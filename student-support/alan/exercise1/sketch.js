@@ -40,7 +40,7 @@ function preload(){
   img4 = loadImage("hat3.png");
   img5 = loadImage("face1.png");
   img6 = loadImage("face2.png");
-  img7 = loadImage("face3.png");
+  //img7 = loadImage("face3.png");
   img8 = loadImage("bg1.png");
   img9 = loadImage("bg2.png");
   img10 = loadImage("bg3.png");
