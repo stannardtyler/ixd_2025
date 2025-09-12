@@ -18,10 +18,10 @@ let rnddetail;
 
 function preload() {
   //load the background images
-  img1 = loadImage("assets/background/background1.PNG");
-  img12 = loadImage("assets/background/background2.PNG");
-  img13 = loadImage("assets/background/background3.PNG");
-  img14 = loadImage("assets/background/background4.PNG");
+  img1 = loadImage("/assets/background/background1.PNG");
+  img12 = loadImage("/assets/background/background2.PNG");
+  img13 = loadImage("/assets/background/background3.PNG");
+  img14 = loadImage("/assets/background/background4.PNG");
 
   //add imgs to bckgrnd array
   bckgrnd = [img1, img12, img13, img14];
