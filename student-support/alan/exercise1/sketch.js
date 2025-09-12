@@ -80,7 +80,7 @@ function draw() {
 function draw1() {
   bPlay();
   background(img11);
-  image(img12, mouseX, mouseY);
+  //image(img12, mouseX, mouseY);
   
   if (mouseIsPressed == true && (mouseX > x1) && (mouseX < x1 + w1) && (mouseY > y1) && (mouseY < y1 + h1)){
     state = 2;
@@ -118,7 +118,7 @@ function draw2() {
   } else if (hat_id == 2) {
     image(img6, 65, 50, 350, 350);
   } else if (hat_id == 3) {
-    image(img7, 65, 50, 350, 350);
+    //image(img7, 65, 50, 350, 350);
   } 
   
   //To change the hat
