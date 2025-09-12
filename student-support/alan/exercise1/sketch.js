@@ -45,7 +45,7 @@ function preload(){
   img9 = loadImage("bg2.png");
   img10 = loadImage("bg3.png");
   img11 = loadImage("mainmenu.png");
-  img12 = loadImage("mouse.png");
+  //img12 = loadImage("mouse.png");
 }
 
 
