@@ -18,19 +18,19 @@ let rnddetail;
 
 function preload() {
   //load the background images
-  img1 = loadImage("/assets/background/background1.PNG");
-  img12 = loadImage("/assets/background/background2.PNG");
-  img13 = loadImage("/assets/background/background3.PNG");
-  img14 = loadImage("/assets/background/background4.PNG");
+  img1 = loadImage("./assets/background/background1.PNG");
+  img12 = loadImage("./assets/background/background2.PNG");
+  img13 = loadImage("./assets/background/background3.PNG");
+  img14 = loadImage("./assets/background/background4.PNG");
 
   //add imgs to bckgrnd array
   bckgrnd = [img1, img12, img13, img14];
 
   //load the midground images
-  img2 = loadImage("/assets/midground/midground1.png");
-  img22 = loadImage("/assets/midground/midground2.png");
-  img23 = loadImage("/assets/midground/midground3.png");
-  img24 = loadImage("/assets/midground/midground4.png");
+  img2 = loadImage("./assets/midground/midground1.png");
+  img22 = loadImage("./assets/midground/midground2.png");
+  img23 = loadImage("./assets/midground/midground3.png");
+  img24 = loadImage("./assets/midground/midground4.png");
 
   //add imgs to midground array
   midground = [img2, img22, img23, img24];
