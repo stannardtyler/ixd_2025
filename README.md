@@ -20,6 +20,10 @@ Chapter 2 [Exercises](eloquent_js/2_0/index.html)
 
 [Character/Scene Randomizer Ex 1](exercises/characterRandomizer/index.html)
 
+## DOM Examples
+
+[DOM Examples](DOM/index.html)
+
 ## How to create a Github Page
 
 Review the Github Page Tutorial Here
