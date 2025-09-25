@@ -1,0 +1,142 @@
+// ===== Globals (mirroring your p5 variables) =====
+let canvas, ctx;
+let bgcolor;
+let button;
+let slider;
+let input;
+let inputP;
+let nameP;
+
+const WIDTH = 400;
+const HEIGHT = 400;
+
+// ===== Setup (replaces p5's setup) =====
+function setup() {
+  // Canvas
+  canvas = document.createElement("canvas");
+  canvas.width = WIDTH;
+  canvas.height = HEIGHT;
+  document.body.appendChild(canvas);
+  ctx = canvas.getContext("2d");
+
+  bgcolor = 200; // grayscale 0-255
+  canvas.style.cursor = "none"; // noCursor()
+
+  // Canvas events
+  canvas.addEventListener("mouseover", overpara);
+  canvas.addEventListener("mouseout", outpara);
+  canvas.addEventListener("mousedown", changeColor);
+
+  // DOM elements
+  nameP = document.createElement("p");
+  nameP.textContent = "Your name!";
+  document.body.appendChild(nameP);
+  nameP.addEventListener("mouseover", overpara);
+  nameP.addEventListener("mouseout", outpara);
+
+  spacer();
+
+  button = document.createElement("button");
+  button.textContent = "Change Color!";
+  button.addEventListener("click", changeColor);
+  document.body.appendChild(button);
+
+  spacer();
+
+  slider = document.createElement("input");
+  slider.type = "range";
+  slider.min = "10";
+  slider.max = "100";
+  slider.value = "50";
+  document.body.appendChild(slider);
+
+  spacer();
+
+  input = document.createElement("input");
+  input.type = "text";
+  input.value = "type your name";
+  document.body.appendChild(input);
+
+  inputP = document.createElement("p");
+  inputP.textContent = "The Text you Type will be here.";
+  document.body.appendChild(inputP);
+
+  // Events equivalent to p5's .changed() and .input()
+  input.addEventListener("change", updateText);
+  input.addEventListener("input", randomShape);
+
+  // // Start the draw loop
+  requestAnimationFrame(draw);
+}
+
+// ===== Utility to mimic your "createP('')" spacers =====
+function spacer() {
+  const div = document.createElement("div");
+  div.className = "spacer";
+  document.body.appendChild(div);
+}
+
+// ===== Handlers (same names as in your sketch) =====
+function updateText() {
+  nameP.textContent = input.value;
+}
+
+function overpara() {
+  nameP.textContent = "your mouse is over me!";
+}
+
+function outpara() {
+  nameP.textContent = "your mouse is out";
+}
+
+function changeColor() {
+  bgcolor = Math.floor(Math.random() * 256);
+}
+
+// ===== Draw loop (replaces p5's draw) =====
+function draw() {
+  // background(bgcolor)
+  ctx.fillStyle = `rgb(${bgcolor}, ${bgcolor}, ${bgcolor})`;
+  ctx.fillRect(0, 0, WIDTH, HEIGHT);
+
+  // inputP.html(input.value())
+  inputP.textContent = input.value;
+
+  // rectMode(CENTER); noFill(); stroke(255); rect(200, 200, slider.value());
+  const w = parseInt(slider.value, 10);
+  const cx = 200,
+    cy = 200;
+  ctx.save();
+  ctx.translate(5, 0);
+  ctx.strokeStyle = "#fff";
+  ctx.lineWidth = 1;
+  ctx.strokeRect(cx - w / 2, cy - w / 2, w, w);
+  ctx.restore();
+
+  // textAlign(CENTER); text(input.value(), 200, 200);
+  ctx.save();
+  ctx.fillStyle = "#fff";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  ctx.font = "16px system-ui, sans-serif";
+  ctx.fillText(input.value, cx, cy);
+  ctx.restore();
+
+  requestAnimationFrame(draw);
+}
+
+// ===== randomShape (called on each input event) =====
+function randomShape() {
+  // fill(255); rect(random(400), random(400), random(50));
+  // Note: we draw immediately, centered like your rectMode(CENTER)
+  const s = Math.random() * 50;
+  const x = Math.random() * WIDTH;
+  const y = Math.random() * HEIGHT;
+  ctx.fillStyle = "#fff";
+  ctx.fillRect(x - s / 2, y - s / 2, s, s);
+  console.log("change");
+  // This drawing will be cleared on the very next frame by the background fill in draw().
+}
+
+// Start once DOM is ready
+window.addEventListener("DOMContentLoaded", setup);

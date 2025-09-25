@@ -1,0 +1,37 @@
+html,
+body {
+  margin: auto;
+  padding: 0;
+  text-align: center;
+  width: 75%;
+  background-color: darkgray;
+}
+canvas {
+  margin: auto;
+  display: block;
+  padding: 10px;
+}
+
+.spacer {
+  height: 8px;
+}
+
+button,
+input {
+  font-size: 14px;
+}
+
+/* body {
+        font-family: system-ui, sans-serif;
+        color: #111;
+        line-height: 1.4;
+        padding: 16px;
+      }
+      canvas {
+        display: block;
+        margin-bottom: 12px;
+        border-radius: 8px;
+        box-shadow: 0 4px 18px rgba(0, 0, 0, 0.15);
+      }
+      
+      } */

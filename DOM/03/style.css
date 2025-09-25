@@ -1,0 +1,17 @@
+html,
+body {
+  margin: auto;
+  padding: 0;
+  text-align: center;
+  width: 75%;
+  background-color: darkgray;
+}
+canvas {
+  margin: auto;
+  display: block;
+  padding: 10px;
+}
+
+img {
+  width: 25%;
+}
