@@ -59,7 +59,7 @@ function setup() {
   clearButton.position(windowWidth / 2 + 150, 450);
 
   groupRowSlider = createSlider(100, 200, 150);
-  groupRowSlider.position(550, 400);
+  groupRowSlider.position(windowWidth / 2 + 150, 400);
 }
 
 function draw() {
