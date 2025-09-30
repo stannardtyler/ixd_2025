@@ -24,6 +24,10 @@ Chapter 2 [Exercises](eloquent_js/2_0/index.html)
 
 [DOM Examples](DOM/index.html)
 
+## Group Randomizer
+
+[Group Randomizer](randomGroupMaker/index.html)
+
 ## How to create a Github Page
 
 Review the Github Page Tutorial Here
