@@ -21,19 +21,19 @@ let bgColor2;
 //preload loads our assets before the program runs
 function preload() {
   //pumpkin 1
-  pumpkin1 = loadImage("/Photos/pumpkin1.png");
-  face1 = loadImage("/Photos/face1.png");
-  candy1 = loadImage("/Photos/candy1.png");
+  pumpkin1 = loadImage("./Photos/pumpkin1.png");
+  face1 = loadImage("./Photos/face1.png");
+  candy1 = loadImage("./Photos/candy1.png");
 
   //pumpkin 2
-  pumpkin2 = loadImage("/Photos/pumpkin2.jpg");
-  face2 = loadImage("/Photos/face2.png");
-  candy2 = loadImage("/Photos/candy2.png");
+  pumpkin2 = loadImage("./Photos/pumpkin2.jpg");
+  face2 = loadImage("./Photos/face2.png");
+  candy2 = loadImage("./Photos/candy2.png");
 
   //pumpkin 3
-  pumpkin3 = loadImage("/Photos/pumpkin3.png");
-  face3 = loadImage("/Photos/face3.png");
-  candy3 = loadImage("/Photos/candy3.png");
+  pumpkin3 = loadImage("./Photos/pumpkin3.png");
+  face3 = loadImage("./Photos/face3.png");
+  candy3 = loadImage("./Photos/candy3.png");
 }
 
 function setup() {
