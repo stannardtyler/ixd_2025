@@ -124,10 +124,10 @@ function clearNames() {
 
 function keyPressed() {
   if (keyIsDown(LEFT_ARROW)) {
-    groupNum = 5;
+    groupNum--;
   }
 
   if (keyIsDown(RIGHT_ARROW)) {
-    groupNum = 9;
+    groupNum++;
   }
 }
