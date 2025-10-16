@@ -19,6 +19,7 @@ Chapter 2 [Exercises](eloquent_js/2_0/index.html)
 ## In-Class Exercises
 
 [Character/Scene Randomizer Ex 1](exercises/characterRandomizer/index.html)
+[Mini Data Viz Ex 2](exercises/miniDataViz/index.html)
 
 ## DOM Examples
 
