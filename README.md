@@ -29,6 +29,10 @@ Chapter 2 [Exercises](eloquent_js/2_0/index.html)
 
 [Group Randomizer](randomGroupMaker/index.html)
 
+## Coded Examples
+
+[Mini Weather App](https://tyl3r.xyz/ixd_2025/codedExamples/miniWeatherApp/index.html)
+
 ## How to create a Github Page
 
 Review the Github Page Tutorial Here
