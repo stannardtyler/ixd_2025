@@ -24,6 +24,7 @@ Chapter 2 [Exercises](eloquent_js/2_0/index.html)
 ## DOM Examples
 
 [DOM Examples](DOM/index.html)
+[Misc Coded Examples(codedExamples/readme.md)
 
 ## Group Randomizer
 
