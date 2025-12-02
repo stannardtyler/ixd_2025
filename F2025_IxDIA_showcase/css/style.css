@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* 
+#ed599d
+#54c5ea 
+*/
+
+html,
+body {
+  background-color: white;
+  color: black;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  font-family: "Montserrat", sans-serif;
+  /* font-optical-sizing: auto; */
+  /* font-weight: 100; */
+  font-style: normal;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 200;
+}
+
+img {
+  border-radius: 15px;
+  height: 150px;
+}
+
+header {
+  padding-top: 50px;
+  display: block;
+  position: relative;
+  z-index: 3;
+}
+
+table,
+th,
+td {
+  /* border: 1px solid black; */
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  width: 33.33%;
+  vertical-align: top;
+  padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+/* .topnav {
+  position: relative;
+  overflow: hidden;
+  background-color: #07101f;
+}
+
+.topnav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.topnav a {
+  float: left;
+  position: relative;
+  left: 45%;
+  top: 50%;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav li a:hover {
+  background-color: #394f76ff;
+  color: white;
+}
+
+.topnav li a.active {
+  background-color: blue;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+.row {
+  display: flex;
+  background-color: #ed599d;
+  padding: 2px;
+}
+
+.column {
+  flex: 75%;
+  background-color: white;
+  padding: 10px;
+}
+
+.container {
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 1.3;
+  /* border-style: solid;
+  border-color: red; */
+
+  display: block;
+  position: relative;
+  z-index: 3;
+}
+
+.container a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  background-color: green;
+}
+
+.container a:hover {
+  color: white;
+  background-color: black;
+}
+.container h1 {
+  text-align: center;
+  color: black;
+}
+
+.container h2,
+.container h3 {
+  text-align: left;
+}
+
+.container p {
+  color: black;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.logoImg {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 5px;
+  width: 10vw;
+  max-width: 160px;
+  min-width: 60px;
+  height: auto;
+}
