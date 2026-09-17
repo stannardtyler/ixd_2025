@@ -51,3 +51,66 @@ and back to the steering wheel (while I try to remember just how my instructor
 told me I should position my hands while making a turn), and my visual
 attention is divided among all the activity around me, sometimes looking
 directly, sometimes rotating my head, and sometimes using the rear- and sideview mirrors. To the skilled driver, it is all easy and straightforward. To the beginning driver, the task seems impossible.(53)
+
+There we have it. Seven stages of action: one for goals, three for execution,
+and three for evaluation (Figure 2.2).
+1. Goal (form the goal)
+2. Plan (the action)
+3. Specify (an action sequence)
+4. Perform (the action sequence)
+5. Perceive (the state of the world)
+6. Interpret (the perception)
+7. Compare (the outcome with the goal)
+
+### Questions Seven Stages of Action
+
+Visibility: Norman emphasizes the importance of visibility in design. Can you think of an example where the visibility of controls or options made a product easy or difficult to use? How does this relate to the Seven Stages of Action? 
+
+Conceptual Models: How does a good conceptual model help users understand and interact with a product? Can you identify a product with a particularly strong or weak conceptual model? 
+
+Mapping: Good mapping is crucial for intuitive design. Can you identify a product where the mapping between controls and their effects was either particularly intuitive or confusing? How did this impact your experience with the product? 
+
+Feedback: How does feedback support the Seven Stages of Action? Can you provide an example of a product where feedback was either excellent or lacking? How did this affect your ability to evaluate your actions and outcomes? 
+
+### Questions from Book
+
+## Human Cognition and Emotion
+
+
+The Visceral Level
+>The most basic level of processing is called visceral. This is sometimes referred
+to as “the lizard brain.” All people have the same basic visceral responses. These
+are part of the basic protective mechanisms of the human affective system,
+making quick judgments about the environment: good or bad, safe or dangerous.
+
+The Behavior Level
+>The behavioral level is the home of learned skills, triggered by situations that
+match the appropriate patterns. Actions and analyses at this level are largely
+subconscious. Even though we are usually aware of our actions, we are often
+unaware of the details. When we speak, we often do not know what we are about
+to say until our conscious mind (the reflective part of the mind) hears ourselves
+uttering the words. When we play a sport, we are prepared for action, but our
+responses occur far too quickly for conscious control: it is the behavioral level
+that takes control.
+
+The Reflective Level
+>The reflective level is the home of conscious cognition. As a consequence, this is
+where deep understanding develops, where reasoning and conscious decisionmaking take place. The visceral and behavioral levels are subconscious and, as a
+result, they respond rapidly, but without much analysis. Reflection is cognitive,
+deep, and slow. It often occurs after the events have happened. It is a reflection
+or looking back over them, evaluating the circumstances, actions, and outcomes,
+often assessing blame or responsibility. The highest levels of emotions come
+from the reflective level, for it is here that causes are assigned and where
+predictions of the future take place. Adding causal elements to experienced
+events leads to such emotional states as guilt and pride (when we assume
+ourselves to be the cause) and blame and praise (when others are thought to be
+the cause). Most of us have probably experienced the extreme highs and lows of
+anticipated future events, all imagined by a runaway reflective cognitive system
+but intense enough to create the physiological responses associated with extreme
+anger or pleasure. Emotion and cognition are tightly intertwined
+
+## Blaming Wrong Things and Blaming Yourself
+>Have you been in a situation where you are using a product and just unable to get it working effectively? Possibly learning a new subject matter where the content takes a deep dive and negatively impacts your comprehension? (42)
+
+
+
