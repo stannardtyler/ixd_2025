@@ -89,7 +89,7 @@ The Visceral Level
 >The most basic level of processing is called visceral. This is sometimes referred
 to as “the lizard brain.” All people have the same basic visceral responses. These
 are part of the basic protective mechanisms of the human affective system,
-making quick judgments about the environment: good or bad, safe or dangerous.
+making quick judgments about the environment: good or bad, safe or dangerous. (63)
 
 The Behavior Level
 >The behavioral level is the home of learned skills, triggered by situations that
@@ -99,7 +99,7 @@ unaware of the details. When we speak, we often do not know what we are about
 to say until our conscious mind (the reflective part of the mind) hears ourselves
 uttering the words. When we play a sport, we are prepared for action, but our
 responses occur far too quickly for conscious control: it is the behavioral level
-that takes control.
+that takes control. (64)
 
 The Reflective Level
 >The reflective level is the home of conscious cognition. As a consequence, this is
@@ -115,10 +115,34 @@ ourselves to be the cause) and blame and praise (when others are thought to be
 the cause). Most of us have probably experienced the extreme highs and lows of
 anticipated future events, all imagined by a runaway reflective cognitive system
 but intense enough to create the physiological responses associated with extreme
-anger or pleasure. Emotion and cognition are tightly intertwined
+anger or pleasure. Emotion and cognition are tightly intertwined (65)
+
+## Positive Psychology 
+
+>We need to remove the word failure from our vocabulary, replacing it instead
+with learning experience. (76)
 
 ## Blaming Wrong Things and Blaming Yourself
 >Have you been in a situation where you are using a product and just unable to get it working effectively? Possibly learning a new subject matter where the content takes a deep dive and negatively impacts your comprehension? (42)
+
+### Feedforward
+>The information that helps answer questions of execution (doing) is
+feedforward. The information that aids in understanding what has happened is
+feedback. Everyone knows what feedback is. It helps you know what happened.
+But how do you know what you can do? That’s the role of feedforward, a term
+borrowed from control theory.
+Feedforward is accomplished through appropriate use of signifiers,
+constraints, and mappings. The conceptual model plays an important role.
+Feedback is accomplished through explicit information about the impact of the
+action. Once again, the conceptual model plays an important role.
+Both feedback and feedforward need to be presented in a form that is readily
+interpreted by the people using the system. The presentation has to match how
+people view the goal they are trying to achieve and their expectations.
+Information must match human needs.
+The insights from the seven stages of action lead us to seven fundamental
+principles of design: (83)
+
+<img src="/images/DOET/chp1/sevenstages2.png" width=50%></img>
 
 ## Levels of Processing / Seven Stages
 
