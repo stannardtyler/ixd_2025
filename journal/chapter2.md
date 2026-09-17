@@ -35,7 +35,11 @@ interpret, and matches the way the person thinks about the system. What are the
 major design elements that help bridge the Gulf of Evaluation? Feedback and a
 good conceptual model. (52)
 
-<img src="/images/DOET/chp1/gulf.png" width=50%></img>
+<img src="/images/DOET/chp1/gulf1.png" width=50%></img>
+
+### Questions from Book
+
+<img src="/images/DOET/chp1/gulf2.png" width=50%></img>
 
 Norman introduces the concept of the "Gulf of Execution" as the gap between a user's intentions and the available actions. Discuss how a well-designed interface can bridge this gap, making it easier for users to achieve their goals. 
 
@@ -76,9 +80,6 @@ Mapping: Good mapping is crucial for intuitive design. Can you identify a produc
 
 Feedback: How does feedback support the Seven Stages of Action? Can you provide an example of a product where feedback was either excellent or lacking? How did this affect your ability to evaluate your actions and outcomes? 
 
-### Questions from Book
-
-<img src="/images/DOET/chp1/gulf2.png" width=50%></img>
 
 ## Human Cognition and Emotion
 
