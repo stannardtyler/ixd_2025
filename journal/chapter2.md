@@ -35,6 +35,8 @@ interpret, and matches the way the person thinks about the system. What are the
 major design elements that help bridge the Gulf of Evaluation? Feedback and a
 good conceptual model. (52)
 
+!(Gulf of Execution and Evaluation)[images/gulf1.png]
+
 Norman introduces the concept of the "Gulf of Execution" as the gap between a user's intentions and the available actions. Discuss how a well-designed interface can bridge this gap, making it easier for users to achieve their goals. 
 
 ## Seven Stages of Action
@@ -51,6 +53,8 @@ and back to the steering wheel (while I try to remember just how my instructor
 told me I should position my hands while making a turn), and my visual
 attention is divided among all the activity around me, sometimes looking
 directly, sometimes rotating my head, and sometimes using the rear- and sideview mirrors. To the skilled driver, it is all easy and straightforward. To the beginning driver, the task seems impossible.(53)
+
+!(Seven Stages of Action)[images/sevenstages1.png]
 
 There we have it. Seven stages of action: one for goals, three for execution,
 and three for evaluation (Figure 2.2).
@@ -74,8 +78,11 @@ Feedback: How does feedback support the Seven Stages of Action? Can you provide 
 
 ### Questions from Book
 
+!(Gulf/Seven Stage Question)[images/gulf2.png]
+
 ## Human Cognition and Emotion
 
+!(Levels of Processing)[images/levelprocessing.png]
 
 The Visceral Level
 >The most basic level of processing is called visceral. This is sometimes referred
@@ -112,5 +119,9 @@ anger or pleasure. Emotion and cognition are tightly intertwined
 ## Blaming Wrong Things and Blaming Yourself
 >Have you been in a situation where you are using a product and just unable to get it working effectively? Possibly learning a new subject matter where the content takes a deep dive and negatively impacts your comprehension? (42)
 
+## Levels of Processing / Seven Stages
 
+!(seven stages image 2)[images/sevenstages3.png]
+
+!(seven stages image 3)[images/sevenstages3.png]
 
