@@ -2,7 +2,7 @@
 
 Based on Chapter 4, “Criticism, function, and discipline,” from *Critical Design in Context* by Matt Malpass.
 
-## Discussion Questions (10 mins)
+## Discussion Questions (10-15 mins)
 
 1. **Think of an object you love.** What makes you enjoy it. Is it because how it works, how it looks, or how it makes you feel?
 
