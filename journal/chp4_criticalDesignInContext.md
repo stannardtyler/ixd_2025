@@ -1,42 +1,21 @@
-##Design art
+#Critical Design in Context
 
-Malpass reviews commentators who describe critical design as a hybrid of art and design, emphasizing authorship, emotional expression, and conceptual experimentation.
-His alternative is an expanded understanding of the designer’s role. Critical designers retain their design skills but direct them toward symbolic, cultural, emotional, and discursive purposes.
+1. **Think of an object you love.** What makes you enjoy it—how it works, how it looks, or how it makes you feel?
 
->“Functionality in this context is linked to stimulating debate, i.e. design for debate.” — Malpass, p. 72
+2. **Pick an object in this room.** What does its design suggest about who it was made for?
 
-##Design art and society
+3. **Imagine making an everyday object awkward or strange.** What could that change help people notice about their habits?
 
-Critical design examines design’s social agency: how objects shape relationships, everyday practices, and responses to social and technological issues.
+4. **Imagine your work starts an argument.** How would you decide whether that reaction means the work succeeded?
 
->“For critical design practice to work as commentary or inquiry, its objects need to be viewed as industrial design.” — Malpass, p. 76
+5. **Look at something you recently made.** What idea about beauty, usefulness, or success could you challenge in that work?
 
->“it must never be beyond criticism itself.” — Malpass, p. 78
+**5-minute sketch: Make an object ask a question**
 
-##Function in critical design practice**
+Redesign an everyday object to make people think about something they usually overlook.
 
-A narrow definition of function prevents people from recognizing critical design as design. If function means only practicality, optimization, and efficiency, experimental objects appear to lack a legitimate purpose.
+- **1 minute:** Choose an object and an idea to question, such as convenience, waste, status, privacy, or beauty.
+- **3 minutes:** Sketch your redesign. Focus on communicating the idea; a rough drawing is enough.
+- **1 minute:** Give it a name and finish: “This object makes people think about…”
 
-Malpass shows that function has long included more than utility. Drawing on Ligo, he identifies five dimensions: material structure, physical task, psychological response, social activity, and cultural or existential meaning.
-
-Function develops through relationships and use. An object’s purpose depends on its context, the people using it, their intentions, and their interpretations. Its appearance and physical construction do not fully determine what it does.
-
->“Function is a dynamic, immaterial, and social property.” — Malpass, p. 81
-
->“Rhetorical use is a type of imagined and fictional use.” — Malpass, p. 83
-
-**The paradox of critical design in commercial use**
-
-The tension is between generating discussion and producing consequences. Debate can be valuable in itself, but meaningful critique also needs to reach the people and institutions involved in the practices being criticized.
-
->“It would also shift the role of debate from an end to a means.” — Malpass, p. 84
-
-##Modelling the field
-
-Malpass uses existing models to locate critical design within design research and practice. These models help explain its relationship to commercial work, academic knowledge, and social engagement.
-
-Fallman’s model distinguishes design practice, which resembles professional design activity; design studies, which develops scholarly knowledge; and design exploration, which investigates possibilities through making.
-
-Design exploration closely aligns with critical design. It asks “what if?” and produces objects that embody questions, alternatives, or commentary rather than responding primarily to market demand.
-
-
+Afterward, let a classmate interpret the sketch before you explain your intention.
