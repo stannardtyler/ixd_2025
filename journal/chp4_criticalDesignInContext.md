@@ -1,4 +1,8 @@
-#Critical Design in Context
+# Critical Design: Discussion
+
+Based on Chapter 4, “Criticism, function, and discipline,” from *Critical Design in Context* by Matt Malpass.
+
+## Discussion Questions
 
 1. **Think of an object you love.** What makes you enjoy it—how it works, how it looks, or how it makes you feel?
 
@@ -10,7 +14,7 @@
 
 5. **Look at something you recently made.** What idea about beauty, usefulness, or success could you challenge in that work?
 
-**5-minute sketch: Make an object ask a question**
+## 5-Minute Sketch: Make an Object Ask a Question
 
 Redesign an everyday object to make people think about something they usually overlook.
 
